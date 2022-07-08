@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/1.sql" afterDir="false" />
+    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="done task 1">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/10.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/7.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/8.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/9.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/555/IdeaProjects/sql_academy_task/src/Tasks"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +54,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657274879188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1657275056958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657275056958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done task 1">
+      <created>1657275265406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657275265406</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +84,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="new commit" />
+    <MESSAGE value="done task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task 1" />
   </component>
 </project>
