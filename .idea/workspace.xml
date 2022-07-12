@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="done task 5">
-      <change beforePath="$PROJECT_DIR$/src/Tasks/6.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/6.sql" afterDir="false" />
+    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="done task 10">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/11.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/12.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/13.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/14.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/15.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/16.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/17.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/18.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/19.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/20.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/21.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/22.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/23.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/24.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/25.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/26.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/27.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/28.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/29.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/30.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/31.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/32.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/33.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/34.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/35.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/36.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/37.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/38.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/39.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/40.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/41.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/42.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/43.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/44.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/45.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/46.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/47.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/48.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/49.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/50.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/51.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/52.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +86,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\555\IdeaProjects\sql_academy_task\src\Tasks" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="DBNMethodRunConfiguration" />
+      </set>
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -111,7 +159,56 @@
       <option name="project" value="LOCAL" />
       <updated>1657352277891</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ref">
+      <created>1657359490918</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657359490918</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ref">
+      <created>1657359498996</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657359498996</updated>
+    </task>
+    <task id="LOCAL-00011" summary="done task 6">
+      <created>1657607656188</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657607656188</updated>
+    </task>
+    <task id="LOCAL-00012" summary="done task 7">
+      <created>1657607877356</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657607877356</updated>
+    </task>
+    <task id="LOCAL-00013" summary="done task 8">
+      <created>1657608498070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657608498070</updated>
+    </task>
+    <task id="LOCAL-00014" summary="done task 9">
+      <created>1657609507920</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657609507920</updated>
+    </task>
+    <task id="LOCAL-00015" summary="done task 10">
+      <created>1657610444552</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657610444552</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +231,12 @@
     <MESSAGE value="done task 3" />
     <MESSAGE value="done task 4" />
     <MESSAGE value="done task 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="done task 5" />
+    <MESSAGE value="ref" />
+    <MESSAGE value="done task 6" />
+    <MESSAGE value="done task 7" />
+    <MESSAGE value="done task 8" />
+    <MESSAGE value="done task 9" />
+    <MESSAGE value="done task 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task 10" />
   </component>
 </project>
