@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="done task 7">
-      <change beforePath="$PROJECT_DIR$/src/Tasks/8.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/8.sql" afterDir="false" />
+    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="done task 8">
+      <change beforePath="$PROJECT_DIR$/src/Tasks/9.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/9.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657607877356</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="done task 8">
+      <created>1657608498070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657608498070</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +172,7 @@
     <MESSAGE value="ref" />
     <MESSAGE value="done task 6" />
     <MESSAGE value="done task 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="done task 7" />
+    <MESSAGE value="done task 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task 8" />
   </component>
 </project>
