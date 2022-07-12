@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="ref">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/6.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/6.sql" afterDir="false" />
+    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="done task 7">
+      <change beforePath="$PROJECT_DIR$/src/Tasks/8.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/8.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657359498996</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="done task 6">
+      <created>1657607656188</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657607656188</updated>
+    </task>
+    <task id="LOCAL-00012" summary="done task 7">
+      <created>1657607877356</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657607877356</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +163,8 @@
     <MESSAGE value="done task 4" />
     <MESSAGE value="done task 5" />
     <MESSAGE value="ref" />
-    <option name="LAST_COMMIT_MESSAGE" value="ref" />
+    <MESSAGE value="done task 6" />
+    <MESSAGE value="done task 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task 7" />
   </component>
 </project>
