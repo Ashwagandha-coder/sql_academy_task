@@ -1,49 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="done task 10">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/11.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/12.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/13.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/14.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/15.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/16.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/17.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/18.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/19.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/20.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/21.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/22.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/23.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/24.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/25.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/26.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/27.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/28.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/29.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/30.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/31.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/32.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/33.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/34.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/35.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/36.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/37.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/38.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/39.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/40.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/41.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/42.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/43.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/44.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/45.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/46.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/47.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/48.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/49.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/50.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/51.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/52.sql" afterDir="false" />
+    <list default="true" id="77ade2b2-12a3-45cb-b13f-d1df98823884" name="Changes" comment="add files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/11.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/11.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657610444552</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add files">
+      <created>1657610781743</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657610781743</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +204,7 @@
     <MESSAGE value="done task 8" />
     <MESSAGE value="done task 9" />
     <MESSAGE value="done task 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="done task 10" />
+    <MESSAGE value="add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
   </component>
 </project>
